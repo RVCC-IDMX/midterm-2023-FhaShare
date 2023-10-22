@@ -164,7 +164,6 @@ footer {
     }
     #our_projects figure {
         display: grid;
-        grid-template-columns: 2fr 1fr;
         margin-bottom: 2rem;
         }
 
