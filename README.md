@@ -1,4 +1,4 @@
 # IDMX 225 Midterm
-Midterm
 
+This page was created for my Midterm.
 Fhaungfha Suvannakajorn
